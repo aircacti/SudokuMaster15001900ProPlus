@@ -61,6 +61,12 @@ Po rozpoczęciu gry, możesz wprowadzać liczby w odpowiednie pola, korzystając
 ---
 
 
+## 🔧 **Known bugs**
+
+- Jeśli znajdziesz - zgłoś mi w Issues! Narazie nie znaleziono.
+
+---
+
 ## 😄 **Mem miesiąca**
 
 <img src="https://github.com/aircacti/SudokuMaster15001900ProPlus/blob/master/meme.jpg?raw=true" alt="Meme miesiąca" width="500"/>
